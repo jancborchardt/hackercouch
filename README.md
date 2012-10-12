@@ -1,3 +1,4 @@
+![](https://raw.github.com/jancborchardt/hackercouch/master/hackercouch.png)
 # Hacker Couch
 
 **Pledge your couch to hackers!**
@@ -22,3 +23,4 @@ Your next travels where you need a couch go in here, like:
 
 * October 29 – November 8 in Berlin
 * November 8 – November 12 in Gothenburg (for [FSCONS](https://fscons.org/2012/))
+
