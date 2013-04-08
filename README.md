@@ -24,6 +24,6 @@ No need to limit length of stay or state interests, just check out people’s pr
 ## Have me crash your couch
 Your next travels where you need a couch go in here, like:
 
-* October 29 – November 8 in Berlin
-* November 8 – November 12 in Gothenburg (for [FSCONS](https://fscons.org/2012/))
+* May 6 – 12 in Berlin
+* June 3 – ? in Munich
 
