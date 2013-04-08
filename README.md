@@ -10,7 +10,7 @@
 5. **MEET AND HACK AND HAVE FUN!**
 6. Afterwards you can leave the other person a review in their issue tracker.
 
-It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and hotels. Why not stay with fellow hackers when traveling and work on awesome stuff together?
+It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and hotels. Why not stay with fellow hackers when traveling and work on awesome stuff together? Also join our IRC channel [#hackercouch](http://webchat.freenode.net/?channels=#hackercouch).
 
 
 ## Crash my couch
