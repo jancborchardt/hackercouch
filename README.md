@@ -27,3 +27,6 @@ Your next travels where you need a couch go in here, like:
 * May 6 – 12 in Berlin
 * June 3 – ? in Munich
 
+## We are on IRC too!
+Join us on irc.freenode.net #hackercouch
+
