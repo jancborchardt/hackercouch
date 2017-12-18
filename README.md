@@ -12,6 +12,8 @@
 
 It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and hotels. Why not stay with fellow hackers when traveling and work on awesome stuff together? Also join our IRC channel [#hackercouch](http://webchat.freenode.net/?channels=#hackercouch).
 
+[https://www.trustroots.org/](Trustroots) is an interesting alternative to couchsurfing and hackercouch. It's [open source](https://github.com/trustroots), free spirited and it does oauth with GitHub.
+
 
 ## Crash on my couch
 I have no permanent couch at the moment. But if I would, I’d say something like this:
@@ -26,4 +28,5 @@ Your next travels where you need a couch go in here, like:
 
 * May 6 – 12 in Berlin
 * June 3 – ? in Munich
+
 
